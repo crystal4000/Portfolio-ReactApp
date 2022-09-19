@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/grad.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -23,27 +23,27 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Year Working</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <small></small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>4+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus
-            deleniti earum voluptates quod, necessitatibus ea cumque, adipisci
-            eum dolore voluptate rerum optio laudantium fugit iusto deserunt
-            doloremque, cum maxime obcaecati.
+            Enthusiastic front-end developer, skilled in Boostrap and React.
+            Seeking to deliver high-quality web development projects.
+            Contributed to some GitHub projects and completed 10+ personal
+            front-end development projects with 95% client satisfaction.
           </p>
 
           <a href="#contact" className="btn btn-primary">

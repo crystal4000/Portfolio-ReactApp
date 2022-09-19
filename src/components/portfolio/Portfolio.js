@@ -3,9 +3,6 @@ import "./portfolio.css";
 import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
 
 //Using map method to loop through an array and display items
 
@@ -30,27 +27,6 @@ const data = [
     title: "Registration Form With JavaScript",
     github: "https://github.com/crystal4000/Zuri-Training---Registration-Form",
     demo: "https://crystal4000.github.io/Zuri-Training---Registration-Form/",
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com",
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com",
   },
 ];
 
